@@ -1,4 +1,4 @@
-baseURL = "https://karljord.github.io/imposterdev"
+baseURL = "https://karljord.github.io/imposterdev/"
 languageCode = "en-us"
 title = "IMPOSTERDEV"
 theme = "cactus"
