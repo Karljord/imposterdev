@@ -1,0 +1,50 @@
+baseURL = "https://karljord.github.io/imposterdev/"
+languageCode = "en-us"
+title = "IMPOSTERDEV"
+theme = "cactus"
+
+[params]
+  colortheme = "dark" # dark, light, white, or classic
+  description = "I am imposterdev, I know basically nothing, or do I?"
+  showAllPostsOnHomePage = false
+  postsOnHomePage = 5
+  tocInline = true
+  showAllPostsArchive = true # or false (default)
+  
+  showProjectsList = false
+  #projectsUrl = "https://github.com/monkeyWzr"
+# Main menu which appears below site header.
+[[params.social]]
+  name = "email"
+  link = "leo@redpill-linpro.com" # no need for "mailto:" at the start
+
+[[params.social]]
+  name = "linkedin"
+  link = "https://se.linkedin.com/in/leo-jordansson/"
+
+[[params.social]]
+  name = "github"
+  link = "https://github.com/karljord"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 4
+
+
+

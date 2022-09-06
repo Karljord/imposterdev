@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/leo/repo/priv/imposterdev",
+	"sourceRoot": "/Users/leo/repo/priv/sites/imposterdev",
 	"sources": [
 		"themes/cactus/assets/scss/style.scss",
 		"themes/cactus/assets/scss/_variables.scss",
