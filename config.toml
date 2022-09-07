@@ -8,6 +8,7 @@ theme = "cactus"
   description = "I am imposterdev, I know basically nothing, or do I?"
   showAllPostsOnHomePage = false
   postsOnHomePage = 5
+  mainSectionTitle = "Posts"
   tocInline = true
   showAllPostsArchive = true # or false (default)
   
@@ -36,10 +37,10 @@ name = "All posts"
 url = "/posts"
 weight = 2
 
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 3
+#[[menu.main]]
+#name = "Tags"
+#url = "/tags"
+#weight = 3
 
 [[menu.main]]
 name = "About"
