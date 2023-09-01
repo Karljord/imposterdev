@@ -1,4 +1,5 @@
-baseURL = "https://imposterdev.com"
+#baseURL = "https://imposterdev.com"
+baseURL = "/"
 languageCode = "en-us"
 title = "IMPOSTERDEV"
 theme = "cactus"
